@@ -7,5 +7,7 @@ This is the code and analysis from the #teamforex project. See the below excerpt
 #Press Coverage
 
 Fox News: https://www.youtube.com/watch?v=f6HynkdcJaE&t=135s
+
 Clemson: http://glimpse.clemson.edu/charting-the-stormy-seas-of-social-media/
+
 Radian6: http://www.radian6.com/wp-content/uploads/2012/06/CaseStudy_ClemsonUniversity_SalesforceRadian6.pdf
